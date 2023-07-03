@@ -13,7 +13,7 @@
             </div><!-- /.col -->
           </div><!-- /.row -->
         </div><!-- /.container-fluid -->
-      </div>
+     
       <!-- /.content-header -->
     
       <!-- Main content -->
@@ -79,5 +79,6 @@
           <!-- /.row -->
         </div><!-- /.container-fluid -->
       </div>
-      <!-- /.content --></div>
+      <!-- /.content -->
+    </div>
 </x-admin-layout>

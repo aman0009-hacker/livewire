@@ -24,6 +24,7 @@ Route::prefix('admin')->group(function()
     Route::get('dashboard',adminController::class)->name('admin.dashboard');
     Route::get('users',ListUsers::class)->name('admin.users');
    
+   
  
 
 });
